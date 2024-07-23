@@ -1,0 +1,26 @@
+.titulo{
+    background-color: rgb(33, 184, 172);
+    text-align: center;
+    margin: 60px;
+ }
+ #cotenidoTitulo{background:rgb(54, 117, 219);}
+ h1{color:rgb(0, 0, 0);}
+ .menuPrincipal{
+    text-align: center;
+    margin: 35px;
+    }
+    #contenido{background:rgb(226, 138, 157);}
+    a{color: rgb(15, 1, 19);}
+ .titulo2{
+    background-color:rgb(209, 149, 700);
+    text-align: center;
+    margin: 50px;
+ }
+ #cotenidoTitulo{background:rgb(255, 255, 255);}
+ h2{color:rgb(73, 44, 44);}
+ .nombre{
+    background-color: rgb(247, 246, 248);
+    text-align: center;
+    margin: 40px;
+ }
+ 
